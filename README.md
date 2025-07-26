@@ -1,6 +1,6 @@
 # 🕹️ How to Play
 
-1. Open the game by loading `simon.html`.
+1. Open the game by loading `index.html`.
 2. Press any key to start the game.
 3. The game will display a sequence by lighting up buttons with sounds.
 4. Repeat the exact sequence by clicking the colored buttons in the same order.
